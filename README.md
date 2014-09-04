@@ -1,4 +1,4 @@
-=== php-browser-language ===
+# php-browser-language
 
 Simple function to determine the default language of the browser.
 
